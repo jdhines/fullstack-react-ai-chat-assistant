@@ -1,0 +1,26 @@
+# Auto-generated files should maintain LF line endings
+src/routeTree.gen.ts text eol=lf
+
+# TypeScript and JavaScript files
+*.ts text eol=lf
+*.tsx text eol=lf
+*.js text eol=lf
+*.jsx text eol=lf
+*.json text eol=lf
+
+# Markdown and documentation
+*.md text eol=lf
+
+# Configuration files
+*.yaml text eol=lf
+*.yml text eol=lf
+*.toml text eol=lf
+
+# Web files
+*.html text eol=lf
+*.css text eol=lf
+*.svg text eol=lf
+
+# Ensure Windows files keep CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
